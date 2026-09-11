@@ -1,8 +1,10 @@
 # Electronic-Circuits--Colpitt-Oscillator
 ## AIM:
 To simulate a Colpitt Oscillator and to verify the output.
+
 ## APPARATUS REQUIRED:
 PC with LT Spice software
+
 ## CIRCUIT DIAGRAM:
 <img width="1600" height="1490" alt="image" src="https://github.com/user-attachments/assets/af2362bf-4911-4509-b2a3-00520295184e" />
 
